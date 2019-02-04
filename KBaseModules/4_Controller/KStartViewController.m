@@ -1,9 +1,8 @@
 //
 //  KStartViewController.m
-//  KBaseModules
+//  Pods
 //
-//  Created by kim on 2019/2/4.
-//  Copyright © 2019 kim. All rights reserved.
+//  Created by kim on 2019/2/5.
 //
 
 #import "KStartViewController.h"
@@ -16,7 +15,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
 }
 
 @end

@@ -1,12 +1,11 @@
 //
 //  KStartViewController.h
-//  KBaseModules
+//  Pods
 //
-//  Created by kim on 2019/2/4.
-//  Copyright © 2019 kim. All rights reserved.
+//  Created by kim on 2019/2/5.
 //
 
-#import "KBaseModulesHeader.h"
+#import "KBaseViewController.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
