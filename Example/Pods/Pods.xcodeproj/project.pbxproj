@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042123AFFB66BABF269C27015E871A75 /* KPresentTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = BA09416583CDF60C06C18BC7B3353517 /* KPresentTransition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		0AD5FF1B92AE7E955073B20B6384A9A4 /* KBaseModulesContainerHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 87650023D1E7CE34CD44D7437056351F /* KBaseModulesContainerHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		0B4C8ADDA9F4B86A4F0A2C60E0A6D785 /* Pods-KBaseModules-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 406CB0F8F0A407BBDEC53A062371AC9F /* Pods-KBaseModules-dummy.m */; };
-		0D17906F17A8ACD9B98492FF82055B75 /* KBaseViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 018B4316CD102654DEB5EC7A0907CCB3 /* KBaseViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		135C897F34EBA4C2DD1BE03908E042BC /* NSString+KBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = 46C91EAC70EEE0DCF20526C8696B4DB8 /* NSString+KBase64.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		139B9ED08E9FAE0FBF1CF1DB572C7872 /* NSError+KInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 25EEB28246BABD0F2F13C3060804AA93 /* NSError+KInfo.m */; };
 		174427689E8B78FE1B4633665FE1A35C /* KStartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F80722A64DE9C32210FDC34ECEF8D982 /* KStartViewController.m */; };
+		175349DA7CDB8A1B3E4F7A7E30D63E7B /* KBaseModules.h in Headers */ = {isa = PBXBuildFile; fileRef = 837D6B1B64AB510FCDA56CB088F1A191 /* KBaseModules.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		1BE3C0A5ED5653D45FD51BBDFEAADDDD /* KBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B9944DA5D9A5FF954CF075BDB6A9CEC /* KBaseViewController.m */; };
 		28C40FFB37057D4FDED777DE5222923D /* UIButton+KEdgeInsets.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C7C44E96F40696FFBB3B3A13879E838 /* UIButton+KEdgeInsets.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		2AF247B8F78F485A41C28E9953622B53 /* NSError+KInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 8668CCC3682DD69A4F08932BB9CDC523 /* NSError+KInfo.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		36D64626B361EECF43A0702C37549F93 /* KBaseModulesTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 91C5536427BCDB4622B7660D91BE63E4 /* KBaseModulesTools.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		38BCEE0C17208357C834CE5740FDACBD /* NSString+KRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = 47393DE601351F32B6C2176471380266 /* NSString+KRegex.m */; };
 		3D0F9502B6FD0CB81DF514FBE7B62F1F /* KTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D3A29EC90295050E7C90C50506BD6 /* KTools-dummy.m */; };
 		40B4E0EA0AA29AF1EF8664A39BDB9498 /* KBaseModulesTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A1FB0670A277A81BB2F2B2ECAD19DA /* KBaseModulesTools.m */; };
 		48F4337428DEC8B093EF81E789FB9B3A /* KBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 67C566ECD0FEBB265900F29F66F38008 /* KBaseView.m */; };
 		527A6C8C0FF155367C4C02DCBC0482B5 /* KLoadManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D51979B2C9E65B38924B76A856667E93 /* KLoadManager.m */; };
 		5399563371AA89DB753297C3E4510490 /* KTools.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21A33215E4B45168D52C9C873FBCA488 /* KTools.xcassets */; };
+		5F8A4351D6E922C4E700034EAC54150D /* KBaseViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 018B4316CD102654DEB5EC7A0907CCB3 /* KBaseViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		64653CE3CA2443E4FC291FA1823C55E6 /* KToolsHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C01457F44D2F5B6C55856AC1F7D60DD /* KToolsHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		718E0A1BAA539A938DCDEA6ADDF8E666 /* KBaseModules-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C373651AF0AE6020DB45959B06FF19D /* KBaseModules-dummy.m */; };
+		75094508171B4659438B6428314A0675 /* KLoadManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 385AFD2FB39706DAB8AA2527FAFC6B6E /* KLoadManager.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		7EEF7E67FF0E7AA02095ACE3F940FEDD /* NSDate+KCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = D812CB1095B3D655573945E103048C39 /* NSDate+KCategory.m */; };
-		8684DEB3E8631977387A9A6C9F66F45B /* KLoadManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 385AFD2FB39706DAB8AA2527FAFC6B6E /* KLoadManager.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		93F746ABE9E8407E8632CADE9C21DFD3 /* NSDate+KCategory.h in Headers */ = {isa = PBXBuildFile; fileRef = EB6BEB0D10DAB310CDA7E7D21B094243 /* NSDate+KCategory.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9D802E525E23B54A071A5A2AADDFD3CA /* KBaseModules.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47D4DB3E20B02FD5C85600D56004EED0 /* KBaseModules.xcassets */; };
+		9D802E525E23B54A071A5A2AADDFD3CA /* KBaseModules.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7AECE16CDC2FD7965AAC1E4D674B3A6 /* KBaseModules.xcassets */; };
 		9D9EDFE8379ABB3BB7DDBD1AE42A2727 /* KBaseNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72CE0D8AB0084D57259DDE133F805389 /* KBaseNavController.m */; };
 		A58D2FD20DE1644D4DEC5799E623B6AD /* UIButton+KEdgeInsets.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F40AB2B07A8B47E7372EBB2D93071CC /* UIButton+KEdgeInsets.m */; };
 		A7B5AB767F26E58B9A9C6F84BD51B71E /* NSString+KRegex.h in Headers */ = {isa = PBXBuildFile; fileRef = C5B027CD5FE02D5440502BF44048432D /* NSString+KRegex.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		ABBB5498E7E594EDA98515BC0C18477E /* KBaseModulesHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = C43FDEF3319EFE1E6D6E1B7918B6C48E /* KBaseModulesHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		A987A729E05B467A08A7D55C2A4197D4 /* KBaseView.h in Headers */ = {isa = PBXBuildFile; fileRef = 74A1BFED73392CA538AFDA3C3C78BC9D /* KBaseView.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		ACC60131E9ADD904B4F98E24517DC830 /* KPresentTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = C0F36A4B942FBC49FFA6DE3077BF570A /* KPresentTransition.m */; };
-		AE52488ADA77CA8C2B18A3A762A728BC /* KStartViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = E256792948251B52CEDA10391DFFA56F /* KStartViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		B0F7787261437C7107E7007CC9AAF33F /* KPresentTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = BA09416583CDF60C06C18BC7B3353517 /* KPresentTransition.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		B6BCDE24380418D66E5313F2FBC7C420 /* KBaseView.h in Headers */ = {isa = PBXBuildFile; fileRef = 74A1BFED73392CA538AFDA3C3C78BC9D /* KBaseView.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		B82D64A7117F108E1DF299868377E84B /* KTools.m in Sources */ = {isa = PBXBuildFile; fileRef = BFE1F05A5C5A735AA56F65A14FFAC1C0 /* KTools.m */; };
 		BAF5E0A2DCC2CBCFB409665D006D705C /* NSString+KBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 98C810EAE74DAAB889257DF9CD8491C3 /* NSString+KBase64.m */; };
-		C3EA4D58BEB25A4A2903DC777E39782D /* KBaseNavController.h in Headers */ = {isa = PBXBuildFile; fileRef = A416D60E601DB19573696D330FDAAFB3 /* KBaseNavController.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		DC61755CD0C349B15B94420EFB2A7C37 /* KBaseModulesContainerHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 87650023D1E7CE34CD44D7437056351F /* KBaseModulesContainerHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D0F6CCC31990D6EC5E1A219EF242532B /* KStartViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = E256792948251B52CEDA10391DFFA56F /* KStartViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D3E7B22B4C0B299B77C48BEE2AD0C4C9 /* KBaseNavController.h in Headers */ = {isa = PBXBuildFile; fileRef = A416D60E601DB19573696D330FDAAFB3 /* KBaseNavController.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		E3304A3464ACD5B03F683EEBB2405433 /* KToolsMacro.h in Headers */ = {isa = PBXBuildFile; fileRef = 991D70689D05BDC782DAAA98534AE735 /* KToolsMacro.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		ECAD5FC247991F0CCE5CA198705A6D0A /* KBaseModulesTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 91C5536427BCDB4622B7660D91BE63E4 /* KBaseModulesTools.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		FD49D928A755AC36B9D046BA601FBD9A /* KTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 547C397B4DE26ED2B7560B334DA16B0E /* KTools.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
@@ -98,7 +98,6 @@
 		406CB0F8F0A407BBDEC53A062371AC9F /* Pods-KBaseModules-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KBaseModules-dummy.m"; sourceTree = "<group>"; };
 		46C91EAC70EEE0DCF20526C8696B4DB8 /* NSString+KBase64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+KBase64.h"; path = "KTools/2_Category/NSString/NSString+KBase64.h"; sourceTree = "<group>"; };
 		47393DE601351F32B6C2176471380266 /* NSString+KRegex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+KRegex.m"; path = "KTools/2_Category/NSString/NSString+KRegex.m"; sourceTree = "<group>"; };
-		47D4DB3E20B02FD5C85600D56004EED0 /* KBaseModules.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = KBaseModules.xcassets; path = KBaseModules/0_Base/KBaseModules.xcassets; sourceTree = "<group>"; };
 		4E851A230E7DB183BFE8885AFFAC0484 /* Pods-KBaseModules-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KBaseModules-resources.sh"; sourceTree = "<group>"; };
 		4F40AB2B07A8B47E7372EBB2D93071CC /* UIButton+KEdgeInsets.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+KEdgeInsets.m"; path = "KTools/2_Category/UIFoundation/UIButton+KEdgeInsets.m"; sourceTree = "<group>"; };
 		51A1FB0670A277A81BB2F2B2ECAD19DA /* KBaseModulesTools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KBaseModulesTools.m; path = KBaseModules/1_Tools/KBaseModulesTools.m; sourceTree = "<group>"; };
@@ -113,6 +112,7 @@
 		74A1BFED73392CA538AFDA3C3C78BC9D /* KBaseView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KBaseView.h; path = KBaseModules/2_View/KBaseView.h; sourceTree = "<group>"; };
 		7AB90FF8D731A97981590FA92E7A5EB2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		7BEF9C0F1D400D0F76DC50118092DC33 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		837D6B1B64AB510FCDA56CB088F1A191 /* KBaseModules.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KBaseModules.h; path = KBaseModules/0_Base/KBaseModules.h; sourceTree = "<group>"; };
 		8668CCC3682DD69A4F08932BB9CDC523 /* NSError+KInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSError+KInfo.h"; path = "KTools/2_Category/NSError/NSError+KInfo.h"; sourceTree = "<group>"; };
 		87650023D1E7CE34CD44D7437056351F /* KBaseModulesContainerHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KBaseModulesContainerHeader.h; path = KBaseModules/1_Tools/KBaseModulesContainerHeader.h; sourceTree = "<group>"; };
 		8CEE9DFB8A29BD6EB780C620D9E3519D /* KTools.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KTools.xcconfig; sourceTree = "<group>"; };
@@ -129,12 +129,12 @@
 		BFE1F05A5C5A735AA56F65A14FFAC1C0 /* KTools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KTools.m; path = KTools/1_Tools/KTools.m; sourceTree = "<group>"; };
 		BFFEBCADA4475ADF42E0F1876E6BE268 /* libPods-KBaseModules.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-KBaseModules.a"; path = "libPods-KBaseModules.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0F36A4B942FBC49FFA6DE3077BF570A /* KPresentTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KPresentTransition.m; path = KBaseModules/1_Tools/KPresentTransition.m; sourceTree = "<group>"; };
-		C43FDEF3319EFE1E6D6E1B7918B6C48E /* KBaseModulesHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KBaseModulesHeader.h; path = KBaseModules/0_Base/KBaseModulesHeader.h; sourceTree = "<group>"; };
 		C5B027CD5FE02D5440502BF44048432D /* NSString+KRegex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+KRegex.h"; path = "KTools/2_Category/NSString/NSString+KRegex.h"; sourceTree = "<group>"; };
 		CE12684E718D783DA43B17CE01832850 /* KBaseModules.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KBaseModules.xcconfig; sourceTree = "<group>"; };
 		D51979B2C9E65B38924B76A856667E93 /* KLoadManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KLoadManager.m; path = KBaseModules/1_Tools/KLoadManager.m; sourceTree = "<group>"; };
 		D812CB1095B3D655573945E103048C39 /* NSDate+KCategory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+KCategory.m"; path = "KTools/2_Category/NSDate/NSDate+KCategory.m"; sourceTree = "<group>"; };
 		E256792948251B52CEDA10391DFFA56F /* KStartViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KStartViewController.h; path = KBaseModules/4_Controller/KStartViewController.h; sourceTree = "<group>"; };
+		E7AECE16CDC2FD7965AAC1E4D674B3A6 /* KBaseModules.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = KBaseModules.xcassets; path = KBaseModules/0_Base/KBaseModules.xcassets; sourceTree = "<group>"; };
 		EB6BEB0D10DAB310CDA7E7D21B094243 /* NSDate+KCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+KCategory.h"; path = "KTools/2_Category/NSDate/NSDate+KCategory.h"; sourceTree = "<group>"; };
 		F626CAD101B72A9F81BD2A540497FCAC /* KTools.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = KTools.bundle; path = "KTools-KTools.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F80722A64DE9C32210FDC34ECEF8D982 /* KStartViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KStartViewController.m; path = KBaseModules/4_Controller/KStartViewController.m; sourceTree = "<group>"; };
@@ -185,6 +185,14 @@
 				94886716B967BA928BD598E28D6D93A1 /* KBaseModules */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		0C01AEF7DAFD721824E1CC8860C45138 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E7AECE16CDC2FD7965AAC1E4D674B3A6 /* KBaseModules.xcassets */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
@@ -289,15 +297,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8759AA608D7AFF9732A584EB82D17E8A /* 0_Base */ = {
-			isa = PBXGroup;
-			children = (
-				C43FDEF3319EFE1E6D6E1B7918B6C48E /* KBaseModulesHeader.h */,
-				C250C8EC9575A43BAAB0E219E0761937 /* Resources */,
-			);
-			name = 0_Base;
-			sourceTree = "<group>";
-		};
 		947DA49E4B9A407F4D291F2E4A324852 /* 1_Tools */ = {
 			isa = PBXGroup;
 			children = (
@@ -311,7 +310,7 @@
 		94886716B967BA928BD598E28D6D93A1 /* KBaseModules */ = {
 			isa = PBXGroup;
 			children = (
-				8759AA608D7AFF9732A584EB82D17E8A /* 0_Base */,
+				A9E8EF374B312FA53B7EE537EBA52846 /* 0_Base */,
 				D5FE4AFF07468A4213C0FBDD33C35AEF /* 1_Tools */,
 				31D5E8EBB1290544D3D47AE3EA3CBA64 /* 2_View */,
 				641AEAD38644B67BDACC0F98F08F946E /* 3_BaseController */,
@@ -340,6 +339,15 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		A9E8EF374B312FA53B7EE537EBA52846 /* 0_Base */ = {
+			isa = PBXGroup;
+			children = (
+				837D6B1B64AB510FCDA56CB088F1A191 /* KBaseModules.h */,
+				0C01AEF7DAFD721824E1CC8860C45138 /* Resources */,
+			);
+			name = 0_Base;
+			sourceTree = "<group>";
+		};
 		AED9D8D8AFE4BF7F3771E328B863CE08 /* Pods-KBaseModules */ = {
 			isa = PBXGroup;
 			children = (
@@ -352,14 +360,6 @@
 			);
 			name = "Pods-KBaseModules";
 			path = "Target Support Files/Pods-KBaseModules";
-			sourceTree = "<group>";
-		};
-		C250C8EC9575A43BAAB0E219E0761937 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				47D4DB3E20B02FD5C85600D56004EED0 /* KBaseModules.xcassets */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 		D43C69A6F882560646751E16BE763512 /* Pods */ = {
@@ -423,19 +423,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		89C00458B96F70F609E51CB8DCAA5587 /* Headers */ = {
+		5AC245F84301EE4DC3DBF00201D7FDAC /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DC61755CD0C349B15B94420EFB2A7C37 /* KBaseModulesContainerHeader.h in Headers */,
-				ABBB5498E7E594EDA98515BC0C18477E /* KBaseModulesHeader.h in Headers */,
-				36D64626B361EECF43A0702C37549F93 /* KBaseModulesTools.h in Headers */,
-				C3EA4D58BEB25A4A2903DC777E39782D /* KBaseNavController.h in Headers */,
-				B6BCDE24380418D66E5313F2FBC7C420 /* KBaseView.h in Headers */,
-				0D17906F17A8ACD9B98492FF82055B75 /* KBaseViewController.h in Headers */,
-				8684DEB3E8631977387A9A6C9F66F45B /* KLoadManager.h in Headers */,
-				B0F7787261437C7107E7007CC9AAF33F /* KPresentTransition.h in Headers */,
-				AE52488ADA77CA8C2B18A3A762A728BC /* KStartViewController.h in Headers */,
+				175349DA7CDB8A1B3E4F7A7E30D63E7B /* KBaseModules.h in Headers */,
+				0AD5FF1B92AE7E955073B20B6384A9A4 /* KBaseModulesContainerHeader.h in Headers */,
+				ECAD5FC247991F0CCE5CA198705A6D0A /* KBaseModulesTools.h in Headers */,
+				D3E7B22B4C0B299B77C48BEE2AD0C4C9 /* KBaseNavController.h in Headers */,
+				A987A729E05B467A08A7D55C2A4197D4 /* KBaseView.h in Headers */,
+				5F8A4351D6E922C4E700034EAC54150D /* KBaseViewController.h in Headers */,
+				75094508171B4659438B6428314A0675 /* KLoadManager.h in Headers */,
+				042123AFFB66BABF269C27015E871A75 /* KPresentTransition.h in Headers */,
+				D0F6CCC31990D6EC5E1A219EF242532B /* KStartViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -478,7 +478,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2CB37B058D3B35D18F7A365CB9868BB7 /* Build configuration list for PBXNativeTarget "KBaseModules" */;
 			buildPhases = (
-				89C00458B96F70F609E51CB8DCAA5587 /* Headers */,
+				5AC245F84301EE4DC3DBF00201D7FDAC /* Headers */,
 				33D6218A070906D2197437A22FAE7ADB /* Sources */,
 				F9AF02DF7F6E72028DB8B8576AFD9040 /* Frameworks */,
 			);
