@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KBaseModules_Tests' do
+  pod 'KBaseModules', :path => '../'
+  
+  
+end
