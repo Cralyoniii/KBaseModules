@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "KBaseModulesHeader.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : KBaseViewController
 
 
 @end

@@ -20,8 +20,9 @@ static UIImageView *kload_image_view;
     dispatch_once(&predicate, ^{
         if(kload == nil){
             kload = [[KLoadManager alloc]init];
-            keywindow = [[UIApplication sharedApplication]keyWindow];
-            kload_image_view = [[UIImageView alloc] init];
+            keywindow = [[UIApplication sharedApplication] keyWindow];
+            kload_image_view = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 58, 41)];
+            kload_image_view.center  = keywindow.center;
         }
     });
     return kload;
@@ -30,6 +31,7 @@ static UIImageView *kload_image_view;
 - (void)defaultLoading{
     
     if(!kload_image_view.animating) {
+        
         NSMutableArray *arr = [NSMutableArray arrayWithCapacity:5];
         for(int i = 0;i<5;i++) {
             [arr addObject:[KBaseModulesTools k_getModulesBundleImageWithImageName:[NSString stringWithFormat:@"dog%d",i]]];
@@ -39,8 +41,7 @@ static UIImageView *kload_image_view;
         kload_image_view.animationRepeatCount = 100;
         [kload_image_view startAnimating];
         [keywindow addSubview:kload_image_view];
-        [kload_image_view sizeToFit];
-        kload_image_view.center  = keywindow.center;
+        
     }
 }
 

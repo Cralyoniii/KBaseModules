@@ -17,6 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [KLoad defaultLoading];
+    self.navigationItem.title = @"测试";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
