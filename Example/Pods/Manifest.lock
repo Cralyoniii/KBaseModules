@@ -1,26 +1,26 @@
 PODS:
-  - KBaseModules (0.0.1):
-    - KBaseModules/0_Base (= 0.0.1)
-    - KBaseModules/1_Tools (= 0.0.1)
-    - KBaseModules/2_View (= 0.0.1)
-    - KBaseModules/3_BaseController (= 0.0.1)
-    - KBaseModules/4_Controller (= 0.0.1)
+  - KBaseModules (0.0.2):
+    - KBaseModules/0_Base (= 0.0.2)
+    - KBaseModules/1_Tools (= 0.0.2)
+    - KBaseModules/2_View (= 0.0.2)
+    - KBaseModules/3_BaseController (= 0.0.2)
+    - KBaseModules/4_Controller (= 0.0.2)
     - KTools
-  - KBaseModules/0_Base (0.0.1):
+  - KBaseModules/0_Base (0.0.2):
     - KBaseModules/1_Tools
     - KBaseModules/2_View
     - KBaseModules/3_BaseController
     - KBaseModules/4_Controller
     - KTools
-  - KBaseModules/1_Tools (0.0.1):
+  - KBaseModules/1_Tools (0.0.2):
     - KTools
-  - KBaseModules/2_View (0.0.1):
+  - KBaseModules/2_View (0.0.2):
     - KBaseModules/1_Tools
     - KTools
-  - KBaseModules/3_BaseController (0.0.1):
+  - KBaseModules/3_BaseController (0.0.2):
     - KBaseModules/1_Tools
     - KTools
-  - KBaseModules/4_Controller (0.0.1):
+  - KBaseModules/4_Controller (0.0.2):
     - KBaseModules/3_BaseController
     - KTools
   - KTools (0.0.1):
@@ -46,7 +46,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KBaseModules: 89bf0e21a40d60a2573c4c3600c5ba9825198ec7
+  KBaseModules: e37c48d2d5775610d9e5de3bfd14eceb158dfccd
   KTools: f8a22e5192e82c83593b9b7f8248ed67909b94a1
 
 PODFILE CHECKSUM: 810f309e51663aeb13cb91929175e810876ccc18
