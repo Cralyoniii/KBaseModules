@@ -1,6 +1,8 @@
-use_frameworks!
-target 'KBaseModules_Tests' do
+source 'https://github.com/KimLinuxc/RunSpec.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'KBaseModules' do
   pod 'KBaseModules', :path => '../'
-  
+  pod 'KTools'
   
 end

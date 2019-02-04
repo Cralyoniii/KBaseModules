@@ -1,0 +1,1 @@
+../../../KTools/KTools/1_Tools/KToolsMacro.h

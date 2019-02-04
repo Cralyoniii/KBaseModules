@@ -1,0 +1,81 @@
+{
+  "name": "KBaseModules",
+  "version": "0.0.1",
+  "summary": "A short description of KBaseModules.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KimLinuxc/KBaseModules",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KimLinuxc": "1038239369@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/KimLinuxc/KBaseModules.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "KTools": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "1_Tools",
+      "source_files": "KBaseModules/1_Tools/**/*.{h,m}"
+    },
+    {
+      "name": "2_View",
+      "dependencies": {
+        "KBaseModules/1_Tools": [
+
+        ]
+      },
+      "source_files": "KBaseModules/2_View/**/*.{h,m}"
+    },
+    {
+      "name": "3_BaseController",
+      "dependencies": {
+        "KBaseModules/1_Tools": [
+
+        ]
+      },
+      "source_files": "KBaseModules/3_BaseController/**/*.{h,m}"
+    },
+    {
+      "name": "4_Controller",
+      "dependencies": {
+        "KBaseModules/3_BaseController": [
+
+        ]
+      },
+      "source_files": "KBaseModules/4_Controller/**/*.{h,m}"
+    },
+    {
+      "name": "0_Base",
+      "dependencies": {
+        "KBaseModules/1_Tools": [
+
+        ],
+        "KBaseModules/2_View": [
+
+        ],
+        "KBaseModules/3_BaseController": [
+
+        ],
+        "KBaseModules/4_Controller": [
+
+        ]
+      },
+      "source_files": "KBaseModules/0_Base/**/*.{h,m}",
+      "resource_bundles": {
+        "KBaseModules": "KBaseModules/0_Base/*.xcassets"
+      }
+    }
+  ]
+}
